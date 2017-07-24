@@ -1,0 +1,10 @@
+Repository enthaelt JavaScript-Anwendung zur privaten Kostenerfassung (nicht fertig gestellt)
+Features: 
+- Regex zum Ueberpruefen der Eingabe des Betrags (Zahl/definiertes Muster/...)
+- Konstruktor-funktion
+- filter-Funktionen
+- ...
+- Anwendung ist responsive (media queries)
+- Aufbau strikt nach erstelltem Screendesign
+
+http://slimou.de/____HappyEuro3/index.html
