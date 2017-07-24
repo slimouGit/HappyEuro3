@@ -3,6 +3,7 @@ Features:
 - Regex zum Ueberpruefen der Eingabe des Betrags (Zahl/definiertes Muster/...)
 - Konstruktor-funktion
 - filter-Funktionen
+- Canvas mit animierter Figur geplant
 - ...
 - Anwendung ist responsive (media queries)
 - Aufbau strikt nach erstelltem Screendesign
